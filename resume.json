@@ -1,0 +1,33 @@
+{
+    "Education": [
+        "Saint John's College High School",
+        "Saint John's College Junior College"
+    ],
+    "Past Experience": [
+        "4+ years experience developing Enterprise software at a financial institution (2014-Current).",
+        "Worked on a development team to implement a core banking solution (2017). Also assisted with data migration.",
+        "Worked on a development team to automate the client risk-rating process for a financial institution."
+    ],
+    "Tech Stack": [
+        "TypeScript",
+        "JavaScript",
+        "Angular",
+        "Loopback (lb4)",
+        "Express",
+        "Java",
+        "HTML",
+        "CSS",
+        "Visual Basic",
+        "COBOL",
+        "Git/GitHub",
+        "SQL (DB2/INFORMIX)"
+    ],
+    "Personal Projects": [
+        "https://github.com/davidAMcIntosh",
+        "https://medium.com/@davidmcintosh"
+    ],
+    "Contact": [
+        "davidmcintoshbz95@gmail.com",
+        "https://about.me/davidamcintosh"
+    ]
+}
